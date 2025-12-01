@@ -16,10 +16,7 @@ follow---perfect for beginners and for personal reference.
 
     learn-machine-learning-python/
     │── .venv/                # Virtual environment (ignored by git)
-    │── src/                  # Python scripts & ML examples
     │── notebooks/            # Jupyter Notebook experiments
-    │── tests/                # Optional tests
-    │── requirements.txt      # Package dependencies
     │── pyproject.toml        # Project metadata (optional)
     │── .gitignore
     │── README.md
