@@ -16,6 +16,8 @@ follow---perfect for beginners and for personal reference.
 
     learn-machine-learning-python/
     │── .venv/                # Virtual environment (ignored by git)
+    │── data/                 # Raw Data CSV
+    │── models/                 # Deployed Training Model
     │── notebooks/            # Jupyter Notebook experiments
     │── pyproject.toml        # Project metadata (optional)
     │── .gitignore
